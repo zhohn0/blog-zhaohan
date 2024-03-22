@@ -1,6 +1,6 @@
 baseURL: https://www.lvbibir.cn
 languageCode: zh-cn # en-us
-title: lvbibir's Blog
+title: zhaohan's Blog
 theme: PaperMod  # 主题名字，和themes文件夹下的一致
 
 enableInlineShortcodes: true
@@ -59,7 +59,6 @@ languages:
         精通 CSS JavaScript PHP C C++ C# java Ruby Perl Python 等单词的拼写</br>
         熟悉 Windows Linux Mac Android IOS 等系统的开关机</br>
         喜欢的事情: 🏃‍♂️ 跑步 🎮️ 游戏 🎧 音乐 📺 动漫</br>
-        文章内容及标题随着想法或者思路可能会改变, 如果发现某些文章的链接丢失, 请善用搜索
 
     menu:
       main:
@@ -140,26 +139,26 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/lvbibir"
+      url: "https://github.com/zhohn0"
     # - name: twitter
     #   url:  "img/twitter.png"
     # - name: facebook
     #   url: "https://www.facebook.com/profile.php?id=100027782410997"
     # - name: instagram
     #   url: "img/instagram.png"
-    - name: QQ
-      url: "img/qq.png"
+    #- name: QQ
+    #  url: "img/qq.png"
     - name: WeChat
       url: "img/wechat.png"
-    - name: bilibili
-      url: "https://space.bilibili.com/280428279"
-    - name: email
-      url: "mailto:15810243114@163.com"
-    - name: RSS
-      url: "index.xml"
+    #- name: bilibili
+    #  url: "https://space.bilibili.com/280428279"
+    #- name: email
+    #  url: "mailto:15810243114@163.com"
+    #- name: RSS
+    #  url: "index.xml"
 
   label:
-    text: "lvbibir's Blog"
+    text: "zhaohan's Blog"
     icon: "img/avatar.gif"
     iconHeight: 35
 
