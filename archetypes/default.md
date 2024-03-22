@@ -2,19 +2,19 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 lastmod: {{ .Date }}
-author: "lvbibir"
-series:
-  - series1
-  - series2
-categories:
-  - category1
-  - category2
+author: "zhaohan"
+#series:
+#  - series1
+#  - series2
+#categories:
+#  - category1
+#  - category2
 tags:
   - tag1
   - tag2
-keywords:
-  - keyword1
-  - keyword2
+#keywords:
+#  - keyword1
+#  - keyword2
 description: ""
 weight:
 slug: "" # 使用 slug属性 来作为当前文章的有效 url 的末尾部分 ；如果没有提供 slug 则使用 title 代替。

@@ -2,13 +2,7 @@
 title: "C++内存结构"
 date: 2024-03-22
 lastmod: 2024-03-22
-author: "lvbibir"
-series:
-  - C++
-  - series2
-categories:
-  - category1
-  - category2
+author: "zhaohan"
 tags:
   - C++
   - 计算机基础
