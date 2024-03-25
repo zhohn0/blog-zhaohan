@@ -148,12 +148,12 @@ params:
     #   url: "img/instagram.png"
     #- name: QQ
     #  url: "img/qq.png"
-    - name: WeChat
-      url: "img/wechat.png"
+    # - name: WeChat
+    #  url: "img/wechat.png"
     #- name: bilibili
     #  url: "https://space.bilibili.com/280428279"
     - name: email
-      url: "540583339@qq.com"
+      url: "mailto:540583339@qq.com"
     #- name: RSS
     #  url: "index.xml"
 
