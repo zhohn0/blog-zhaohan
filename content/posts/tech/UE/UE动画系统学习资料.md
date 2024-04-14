@@ -24,6 +24,8 @@ https://zhuanlan.zhihu.com/p/393884450
 
 https://zhuanlan.zhihu.com/p/446851284
 
+https://zhuanlan.zhihu.com/p/488565627
+
 
 UE 动画系统专栏
 
@@ -44,5 +46,10 @@ Motion Matching
 
 https://zhuanlan.zhihu.com/p/378189446
 
+
+
+叠加动画
+
+https://zhuanlan.zhihu.com/p/684068015
 
 
